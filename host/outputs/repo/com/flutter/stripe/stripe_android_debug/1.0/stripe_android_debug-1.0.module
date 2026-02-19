@@ -1,0 +1,214 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.flutter.stripe",
+    "module": "stripe_android_debug",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14"
+    }
+  },
+  "variants": [
+    {
+      "name": "debugVariantDebugApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-3452d735bd38224ef2db85ca763d862d6326b17f"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "viewbinding",
+          "version": {
+            "requires": "8.11.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.2.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "stripe_android_debug-1.0.aar",
+          "url": "stripe_android_debug-1.0.aar",
+          "size": 578771,
+          "sha512": "bd1496e09dc6be0aa0a4a639d2664adc41bf0a1806b4d09b61f72bec8b18a99c543b07960575ab0bd3a88a32d3b1fdcec168fb1706921a4e31f231ef66b15697",
+          "sha256": "101a09133d88df1f4bbe562c8fd5b95e90285529f3b03154b764f05cdab1b568",
+          "sha1": "515ea5d28ef0f595e8d7ef44744abc3c94bd6f4b",
+          "md5": "8a42f7252185fbf75f001aff874412ed"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_debug",
+          "version": {
+            "requires": "1.0.0-3452d735bd38224ef2db85ca763d862d6326b17f"
+          }
+        },
+        {
+          "group": "com.facebook.fresco",
+          "module": "fresco",
+          "version": {
+            "requires": "3.6.0"
+          }
+        },
+        {
+          "group": "com.facebook.fresco",
+          "module": "middleware",
+          "version": {
+            "requires": "3.6.0"
+          }
+        },
+        {
+          "group": "androidx.browser",
+          "module": "browser",
+          "version": {
+            "requires": "1.8.0"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-runtime-ktx",
+          "version": {
+            "requires": "2.4.1"
+          }
+        },
+        {
+          "group": "com.stripe",
+          "module": "stripe-android",
+          "version": {
+            "requires": "22.7.+"
+          }
+        },
+        {
+          "group": "com.stripe",
+          "module": "financial-connections",
+          "version": {
+            "requires": "22.7.+"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.6.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.4.1"
+          }
+        },
+        {
+          "group": "androidx.legacy",
+          "module": "legacy-support-v4",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.4"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "viewbinding",
+          "version": {
+            "requires": "8.11.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.2.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "stripe_android_debug-1.0.aar",
+          "url": "stripe_android_debug-1.0.aar",
+          "size": 578771,
+          "sha512": "bd1496e09dc6be0aa0a4a639d2664adc41bf0a1806b4d09b61f72bec8b18a99c543b07960575ab0bd3a88a32d3b1fdcec168fb1706921a4e31f231ef66b15697",
+          "sha256": "101a09133d88df1f4bbe562c8fd5b95e90285529f3b03154b764f05cdab1b568",
+          "sha1": "515ea5d28ef0f595e8d7ef44744abc3c94bd6f4b",
+          "md5": "8a42f7252185fbf75f001aff874412ed"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "stripe_android_debug-1.0-sources.jar",
+          "url": "stripe_android_debug-1.0-sources.jar",
+          "size": 152232,
+          "sha512": "ebae44db10f21c3e033e529303ea8724fb5485e1b9f795a304a3450106db8b369fb43f99000dc3f8ed79bf034f1dcecc401721cca67c37d190ea5f5639b8f424",
+          "sha256": "4c1cc095dc8129e44d9ef06117d709878c7a7613bef84e3960e95d0f648d92eb",
+          "sha1": "aece5efa7a95bc888859de455ed07e606fa6a42c",
+          "md5": "b25e7b065b4c71ecd4fa44054cc112d9"
+        }
+      ]
+    },
+    {
+      "name": "debugVariantDebugJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "stripe_android_debug-1.0-javadoc.jar",
+          "url": "stripe_android_debug-1.0-javadoc.jar",
+          "size": 1081730,
+          "sha512": "8b01142ae534df4dc74a7515f7fdb024e34b762005fcd43a9d3eae7fba858ab0101b86c43aca4b97c4c2487f68f0f0fc4285d885ffc7a087f318a05fb7be9c68",
+          "sha256": "47ac0f28144289b14c2ee1a2834526d7752eda4af1dd216258335b320f013eb7",
+          "sha1": "7be30bcf6067d77b78fa40010bd78dcad1169115",
+          "md5": "67b6a39c4a20fcf6701e762a2c0329c4"
+        }
+      ]
+    }
+  ]
+}

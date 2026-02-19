@@ -1,0 +1,214 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.flutter.stripe",
+    "module": "stripe_android_release",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-3452d735bd38224ef2db85ca763d862d6326b17f"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "viewbinding",
+          "version": {
+            "requires": "8.11.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.2.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "stripe_android_release-1.0.aar",
+          "url": "stripe_android_release-1.0.aar",
+          "size": 547631,
+          "sha512": "51ce27dd65a1ea0f1073279a0d761062137a48d591ec4c94d51aaf3551ef07ca4f127a0b74cc1c91beae08c2d8539900c31a85c5713789e8568d2a0ab3d8ac91",
+          "sha256": "70548ef550ad319630121558f879a8df7c782000ad517e1180442dbee1d231f6",
+          "sha1": "5f3691c912a17795fdb2634d33dc0adcb720832c",
+          "md5": "b7e0d1697ed0537050f57e1a146ac209"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-3452d735bd38224ef2db85ca763d862d6326b17f"
+          }
+        },
+        {
+          "group": "com.facebook.fresco",
+          "module": "fresco",
+          "version": {
+            "requires": "3.6.0"
+          }
+        },
+        {
+          "group": "com.facebook.fresco",
+          "module": "middleware",
+          "version": {
+            "requires": "3.6.0"
+          }
+        },
+        {
+          "group": "androidx.browser",
+          "module": "browser",
+          "version": {
+            "requires": "1.8.0"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-runtime-ktx",
+          "version": {
+            "requires": "2.4.1"
+          }
+        },
+        {
+          "group": "com.stripe",
+          "module": "stripe-android",
+          "version": {
+            "requires": "22.7.+"
+          }
+        },
+        {
+          "group": "com.stripe",
+          "module": "financial-connections",
+          "version": {
+            "requires": "22.7.+"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.6.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.4.1"
+          }
+        },
+        {
+          "group": "androidx.legacy",
+          "module": "legacy-support-v4",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.4"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "viewbinding",
+          "version": {
+            "requires": "8.11.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.2.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "stripe_android_release-1.0.aar",
+          "url": "stripe_android_release-1.0.aar",
+          "size": 547631,
+          "sha512": "51ce27dd65a1ea0f1073279a0d761062137a48d591ec4c94d51aaf3551ef07ca4f127a0b74cc1c91beae08c2d8539900c31a85c5713789e8568d2a0ab3d8ac91",
+          "sha256": "70548ef550ad319630121558f879a8df7c782000ad517e1180442dbee1d231f6",
+          "sha1": "5f3691c912a17795fdb2634d33dc0adcb720832c",
+          "md5": "b7e0d1697ed0537050f57e1a146ac209"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "stripe_android_release-1.0-sources.jar",
+          "url": "stripe_android_release-1.0-sources.jar",
+          "size": 152232,
+          "sha512": "ebae44db10f21c3e033e529303ea8724fb5485e1b9f795a304a3450106db8b369fb43f99000dc3f8ed79bf034f1dcecc401721cca67c37d190ea5f5639b8f424",
+          "sha256": "4c1cc095dc8129e44d9ef06117d709878c7a7613bef84e3960e95d0f648d92eb",
+          "sha1": "aece5efa7a95bc888859de455ed07e606fa6a42c",
+          "md5": "b25e7b065b4c71ecd4fa44054cc112d9"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "stripe_android_release-1.0-javadoc.jar",
+          "url": "stripe_android_release-1.0-javadoc.jar",
+          "size": 1081730,
+          "sha512": "8b01142ae534df4dc74a7515f7fdb024e34b762005fcd43a9d3eae7fba858ab0101b86c43aca4b97c4c2487f68f0f0fc4285d885ffc7a087f318a05fb7be9c68",
+          "sha256": "47ac0f28144289b14c2ee1a2834526d7752eda4af1dd216258335b320f013eb7",
+          "sha1": "7be30bcf6067d77b78fa40010bd78dcad1169115",
+          "md5": "67b6a39c4a20fcf6701e762a2c0329c4"
+        }
+      ]
+    }
+  ]
+}

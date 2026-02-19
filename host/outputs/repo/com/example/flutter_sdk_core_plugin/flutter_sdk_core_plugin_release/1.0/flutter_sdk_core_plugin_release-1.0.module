@@ -1,0 +1,130 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.example.flutter_sdk_core_plugin",
+    "module": "flutter_sdk_core_plugin_release",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-3452d735bd38224ef2db85ca763d862d6326b17f"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.2.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_sdk_core_plugin_release-1.0.aar",
+          "url": "flutter_sdk_core_plugin_release-1.0.aar",
+          "size": 2649,
+          "sha512": "8c99159ade71771134694ec67cee84625a3312af04dc084fe2eeacc228f7617128acfb8e99a71f8f1434421e6e86580df99e7f2d097877a58cd9688d5b86c184",
+          "sha256": "2044769d91474359a32166e5aeba80d8c6bd95ae37194c71bc176cbff259714f",
+          "sha1": "9798bae69c7e6f590f3dc17925ebf7f5b8401a35",
+          "md5": "5e9a64f0f5c57012e9d7aba79f07f370"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-3452d735bd38224ef2db85ca763d862d6326b17f"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.2.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_sdk_core_plugin_release-1.0.aar",
+          "url": "flutter_sdk_core_plugin_release-1.0.aar",
+          "size": 2649,
+          "sha512": "8c99159ade71771134694ec67cee84625a3312af04dc084fe2eeacc228f7617128acfb8e99a71f8f1434421e6e86580df99e7f2d097877a58cd9688d5b86c184",
+          "sha256": "2044769d91474359a32166e5aeba80d8c6bd95ae37194c71bc176cbff259714f",
+          "sha1": "9798bae69c7e6f590f3dc17925ebf7f5b8401a35",
+          "md5": "5e9a64f0f5c57012e9d7aba79f07f370"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_sdk_core_plugin_release-1.0-sources.jar",
+          "url": "flutter_sdk_core_plugin_release-1.0-sources.jar",
+          "size": 1317,
+          "sha512": "0ab816ab8282050d62555a386d0aae8fa3a589e2f335665b297d77eed00cf64e4bc89d2bd3d56658ca72e0f065ab27a07164c4af6acc2f7573406db6deba375a",
+          "sha256": "452186a0b30e9d0d9bda9e7734b7710e7e809634340dc4f15e9b2b9c29955709",
+          "sha1": "afc6cbc6a9a17567742dcb84d8ab50f0435739e6",
+          "md5": "84e1205cd75bab15735915e6af9c4f9e"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_sdk_core_plugin_release-1.0-javadoc.jar",
+          "url": "flutter_sdk_core_plugin_release-1.0-javadoc.jar",
+          "size": 262381,
+          "sha512": "b076e50a5e8229cd54f84d5312754404be4ec0e93b309f205eb5174cbb3ee354bfb8a4d282922b580400c2c20b7417d195516f99d117614c160c154881594914",
+          "sha256": "0540218f381bd0870bb4405b3b963a0cc230c8aaeda881ca51a18d7c86773883",
+          "sha1": "d35925126b12146920bbed4e8c7f807afc358584",
+          "md5": "bee71e21182df20d4ff4295026a9705c"
+        }
+      ]
+    }
+  ]
+}

@@ -43,6 +43,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.example.flutter_sdk_core_plugin</groupId>
+      <artifactId>flutter_sdk_core_plugin_debug</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.google_mlkit_commons</groupId>
       <artifactId>google_mlkit_commons_debug</artifactId>
       <version>1.0</version>

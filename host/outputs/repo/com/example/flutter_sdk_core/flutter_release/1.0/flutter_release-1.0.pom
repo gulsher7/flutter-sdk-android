@@ -43,6 +43,18 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.google_mlkit_commons</groupId>
+      <artifactId>google_mlkit_commons_release</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.google_mlkit_face_detection</groupId>
+      <artifactId>google_mlkit_face_detection_release</artifactId>
+      <version>1.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>io.flutter.plugins.imagepicker</groupId>
       <artifactId>image_picker_android_release</artifactId>
       <version>1.0</version>

@@ -202,11 +202,11 @@
         {
           "name": "stripe_android_profile-1.0-javadoc.jar",
           "url": "stripe_android_profile-1.0-javadoc.jar",
-          "size": 1081749,
-          "sha512": "e230eb41aba95c8b016cc35e6097518eeb542b61640af3faf1706b13ed0fa588756458ee4ea9df2d1a0ee839a724633872dd0a3b0227be79ebbf6821d8bc3420",
-          "sha256": "03783086da818536617d8361aaae8ebd3eb1c1c7b9407b20d6007e06854bd076",
-          "sha1": "1ad0dd81186cbf5eb7392ab731133030721eeb67",
-          "md5": "8a6a906d43d4e2c106ab4398232a441c"
+          "size": 1081736,
+          "sha512": "e860876fa1fe3030536220d29c3e374069ee2a5ad82b960c51531be9bd91768de37dcf03ea0371889b306212c99f3edc75bc15e2dc7aa59df42d5f1bcb62fb83",
+          "sha256": "ef3d5727b0be696869aa26dcdf416c00d9c3c8f94cb9f2342f386c50d62c49d2",
+          "sha1": "ccf631e981db3d9a4082c36579ac3d49568e5ee0",
+          "md5": "09366b2d629307911faea8eab7135dae"
         }
       ]
     }

@@ -52,36 +52,8 @@
           }
         },
         {
-          "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
-          "module": "flutter_plugin_android_lifecycle_release",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
           "group": "com.example.flutter_sdk_core_plugin",
           "module": "flutter_sdk_core_plugin_release",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "com.google_mlkit_commons",
-          "module": "google_mlkit_commons_release",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "com.google_mlkit_face_detection",
-          "module": "google_mlkit_face_detection_release",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "io.flutter.plugins.imagepicker",
-          "module": "image_picker_android_release",
           "version": {
             "requires": "1.0"
           }
@@ -98,11 +70,11 @@
         {
           "name": "flutter_release-1.0.aar",
           "url": "flutter_release-1.0.aar",
-          "size": 5788551,
-          "sha512": "b336349d6f6326d6c489a6793eb24461284a314b3e199589307c9073605a0e47afb0d5d50f74b36695b18c2cf73be4dd75f08006a54c83f10def9774d3a1f4be",
-          "sha256": "722af55533abbdd157a6e419159d33caa96d77d7d1135c63a44882036c6059ff",
-          "sha1": "acb2db0ac8b5b5bef3bf8c6eb2d98d3a46d91f9a",
-          "md5": "56de4ea9964028d12bc57862477c1363"
+          "size": 5786264,
+          "sha512": "10c433511fc910964d737eb6e268c329b3e348aa0d1eaae69d4a855a8b285be6cc8c19ba1d314977376d30521699fdb7d539e904ce74a4fa85326c003d83f8c0",
+          "sha256": "60f6fd8ced66d71c7e2e26d3722ad9f082dc50388bd79c9952e3a6bc5d13cee0",
+          "sha1": "c75d937d7355ff4ee491cf689cdef0f9964d3e93",
+          "md5": "cc2f6287d5976b41c7686025fb7fab50"
         }
       ]
     },
@@ -144,36 +116,8 @@
           }
         },
         {
-          "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
-          "module": "flutter_plugin_android_lifecycle_release",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
           "group": "com.example.flutter_sdk_core_plugin",
           "module": "flutter_sdk_core_plugin_release",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "com.google_mlkit_commons",
-          "module": "google_mlkit_commons_release",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "com.google_mlkit_face_detection",
-          "module": "google_mlkit_face_detection_release",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "io.flutter.plugins.imagepicker",
-          "module": "image_picker_android_release",
           "version": {
             "requires": "1.0"
           }
@@ -190,11 +134,11 @@
         {
           "name": "flutter_release-1.0.aar",
           "url": "flutter_release-1.0.aar",
-          "size": 5788551,
-          "sha512": "b336349d6f6326d6c489a6793eb24461284a314b3e199589307c9073605a0e47afb0d5d50f74b36695b18c2cf73be4dd75f08006a54c83f10def9774d3a1f4be",
-          "sha256": "722af55533abbdd157a6e419159d33caa96d77d7d1135c63a44882036c6059ff",
-          "sha1": "acb2db0ac8b5b5bef3bf8c6eb2d98d3a46d91f9a",
-          "md5": "56de4ea9964028d12bc57862477c1363"
+          "size": 5786264,
+          "sha512": "10c433511fc910964d737eb6e268c329b3e348aa0d1eaae69d4a855a8b285be6cc8c19ba1d314977376d30521699fdb7d539e904ce74a4fa85326c003d83f8c0",
+          "sha256": "60f6fd8ced66d71c7e2e26d3722ad9f082dc50388bd79c9952e3a6bc5d13cee0",
+          "sha1": "c75d937d7355ff4ee491cf689cdef0f9964d3e93",
+          "md5": "cc2f6287d5976b41c7686025fb7fab50"
         }
       ]
     },
@@ -210,11 +154,11 @@
         {
           "name": "flutter_release-1.0-sources.jar",
           "url": "flutter_release-1.0-sources.jar",
-          "size": 1272,
-          "sha512": "e33a46e2057170d5b537dac1c9a453f8a8249ef998a6395f85cb0cc12f7df580323d1f0e58f4aab4bf35f66719aac5f870d918224f6c98f6261012e77794900a",
-          "sha256": "cd8482071cce48a0f110cb08752f07f713415835a1f250d2d3d10d4ef24a50e9",
-          "sha1": "8f110c6493ff355d2f8a2c53d326d44ecd150862",
-          "md5": "fd1907ee0bd2c8c77f9b10b86117378d"
+          "size": 1145,
+          "sha512": "ddfa5d5e1f32769cbf6d68af6acd5fadc768de8ea3b7f402acfca2147a86c25240b4371ea15880284348c63560cf1197465b3986ea1dfe565b47edaf0e32e0de",
+          "sha256": "7219a5d15b3b5a66e74c92b8464cb9f8dcdd4afd9676e2d85743ac4ced25a8c3",
+          "sha1": "a1349ae3b772632ffa8e56822a21ac666472bb94",
+          "md5": "92fb96e303f618bc4b033841b6ed634b"
         }
       ]
     },

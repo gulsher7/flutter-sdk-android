@@ -37,32 +37,8 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>io.flutter.plugins.flutter_plugin_android_lifecycle</groupId>
-      <artifactId>flutter_plugin_android_lifecycle_release</artifactId>
-      <version>1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.example.flutter_sdk_core_plugin</groupId>
       <artifactId>flutter_sdk_core_plugin_release</artifactId>
-      <version>1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.google_mlkit_commons</groupId>
-      <artifactId>google_mlkit_commons_release</artifactId>
-      <version>1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.google_mlkit_face_detection</groupId>
-      <artifactId>google_mlkit_face_detection_release</artifactId>
-      <version>1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>io.flutter.plugins.imagepicker</groupId>
-      <artifactId>image_picker_android_release</artifactId>
       <version>1.0</version>
       <scope>compile</scope>
     </dependency>

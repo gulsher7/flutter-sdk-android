@@ -202,11 +202,11 @@
         {
           "name": "stripe_android_debug-1.0-javadoc.jar",
           "url": "stripe_android_debug-1.0-javadoc.jar",
-          "size": 1081740,
-          "sha512": "d8076796444d64d962b2305d7b7ae7f4646dc4dbe5b407214d9902837f870fea0abb93e34765f628124b40be51ad4798dc667046b22e3cc16b3c354569fafd07",
-          "sha256": "3d86e60f6af0438fa2a0f94e7691eb9688e86f6214e1e44dd398c7d6953a832a",
-          "sha1": "08da187ecd76a3fcd6c674bc4c4f4d3d042ebe82",
-          "md5": "908effce34986abe6c111081d6066937"
+          "size": 1081736,
+          "sha512": "e860876fa1fe3030536220d29c3e374069ee2a5ad82b960c51531be9bd91768de37dcf03ea0371889b306212c99f3edc75bc15e2dc7aa59df42d5f1bcb62fb83",
+          "sha256": "ef3d5727b0be696869aa26dcdf416c00d9c3c8f94cb9f2342f386c50d62c49d2",
+          "sha1": "ccf631e981db3d9a4082c36579ac3d49568e5ee0",
+          "md5": "09366b2d629307911faea8eab7135dae"
         }
       ]
     }

@@ -52,36 +52,8 @@
           }
         },
         {
-          "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
-          "module": "flutter_plugin_android_lifecycle_debug",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
           "group": "com.example.flutter_sdk_core_plugin",
           "module": "flutter_sdk_core_plugin_debug",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "com.google_mlkit_commons",
-          "module": "google_mlkit_commons_debug",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "com.google_mlkit_face_detection",
-          "module": "google_mlkit_face_detection_debug",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "io.flutter.plugins.imagepicker",
-          "module": "image_picker_android_debug",
           "version": {
             "requires": "1.0"
           }
@@ -98,11 +70,11 @@
         {
           "name": "flutter_debug-1.0.aar",
           "url": "flutter_debug-1.0.aar",
-          "size": 18512310,
-          "sha512": "49add28a20541b1bdebd1c36d99432f68161d81396b777472e0beef103504e76cc2fbb19c687cb5b8e406c6d55381a3944ba0f207dfa6671fac1b2feaad62f1d",
-          "sha256": "14628ad7c211f1ce5453937034ac063a2d2a67b974665705634333140e12801f",
-          "sha1": "3e8d0de2c94f55d3f1ce1329d15eb58b6ad88018",
-          "md5": "476a5ee9c11266c1d55e745065be8fc7"
+          "size": 18393544,
+          "sha512": "f91828e618fd1b1254a230c131ac8755b2427a62d45e1012f1f9006700b9999b7c9a538fbab9396527f031d7cff985355995e729850aeec60f76380a45ee673d",
+          "sha256": "5989efe9300e68c3e58322622bfcfb1ade3ee3ba3528a8eefd5a58a74a2752e1",
+          "sha1": "27e02e3f75ff4d9ccfcf85e31b666546356718f9",
+          "md5": "37a1e50b772a46f3e060bc1d0dd5b75a"
         }
       ]
     },
@@ -144,36 +116,8 @@
           }
         },
         {
-          "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
-          "module": "flutter_plugin_android_lifecycle_debug",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
           "group": "com.example.flutter_sdk_core_plugin",
           "module": "flutter_sdk_core_plugin_debug",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "com.google_mlkit_commons",
-          "module": "google_mlkit_commons_debug",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "com.google_mlkit_face_detection",
-          "module": "google_mlkit_face_detection_debug",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "io.flutter.plugins.imagepicker",
-          "module": "image_picker_android_debug",
           "version": {
             "requires": "1.0"
           }
@@ -190,11 +134,11 @@
         {
           "name": "flutter_debug-1.0.aar",
           "url": "flutter_debug-1.0.aar",
-          "size": 18512310,
-          "sha512": "49add28a20541b1bdebd1c36d99432f68161d81396b777472e0beef103504e76cc2fbb19c687cb5b8e406c6d55381a3944ba0f207dfa6671fac1b2feaad62f1d",
-          "sha256": "14628ad7c211f1ce5453937034ac063a2d2a67b974665705634333140e12801f",
-          "sha1": "3e8d0de2c94f55d3f1ce1329d15eb58b6ad88018",
-          "md5": "476a5ee9c11266c1d55e745065be8fc7"
+          "size": 18393544,
+          "sha512": "f91828e618fd1b1254a230c131ac8755b2427a62d45e1012f1f9006700b9999b7c9a538fbab9396527f031d7cff985355995e729850aeec60f76380a45ee673d",
+          "sha256": "5989efe9300e68c3e58322622bfcfb1ade3ee3ba3528a8eefd5a58a74a2752e1",
+          "sha1": "27e02e3f75ff4d9ccfcf85e31b666546356718f9",
+          "md5": "37a1e50b772a46f3e060bc1d0dd5b75a"
         }
       ]
     },
@@ -210,11 +154,11 @@
         {
           "name": "flutter_debug-1.0-sources.jar",
           "url": "flutter_debug-1.0-sources.jar",
-          "size": 1272,
-          "sha512": "e33a46e2057170d5b537dac1c9a453f8a8249ef998a6395f85cb0cc12f7df580323d1f0e58f4aab4bf35f66719aac5f870d918224f6c98f6261012e77794900a",
-          "sha256": "cd8482071cce48a0f110cb08752f07f713415835a1f250d2d3d10d4ef24a50e9",
-          "sha1": "8f110c6493ff355d2f8a2c53d326d44ecd150862",
-          "md5": "fd1907ee0bd2c8c77f9b10b86117378d"
+          "size": 1145,
+          "sha512": "ddfa5d5e1f32769cbf6d68af6acd5fadc768de8ea3b7f402acfca2147a86c25240b4371ea15880284348c63560cf1197465b3986ea1dfe565b47edaf0e32e0de",
+          "sha256": "7219a5d15b3b5a66e74c92b8464cb9f8dcdd4afd9676e2d85743ac4ced25a8c3",
+          "sha1": "a1349ae3b772632ffa8e56822a21ac666472bb94",
+          "md5": "92fb96e303f618bc4b033841b6ed634b"
         }
       ]
     },

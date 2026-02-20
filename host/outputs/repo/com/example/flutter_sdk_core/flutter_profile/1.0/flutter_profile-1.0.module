@@ -52,36 +52,8 @@
           }
         },
         {
-          "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
-          "module": "flutter_plugin_android_lifecycle_profile",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
           "group": "com.example.flutter_sdk_core_plugin",
           "module": "flutter_sdk_core_plugin_profile",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "com.google_mlkit_commons",
-          "module": "google_mlkit_commons_profile",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "com.google_mlkit_face_detection",
-          "module": "google_mlkit_face_detection_profile",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "io.flutter.plugins.imagepicker",
-          "module": "image_picker_android_profile",
           "version": {
             "requires": "1.0"
           }
@@ -98,11 +70,11 @@
         {
           "name": "flutter_profile-1.0.aar",
           "url": "flutter_profile-1.0.aar",
-          "size": 8798170,
-          "sha512": "22ba6c25d154290fc9e8b7a30612e119275ee42bf77d3b605e579d5493abfed005177ded0875742ea364fd685db6c71870486d0d79319d6ac7f189f4f78811b7",
-          "sha256": "7caf1746a060b3c50e5b756f3a96bc6ca18c5e3a16ca074febb0dca5dec9af91",
-          "sha1": "513dce36a017c8c517ae81e04ab3ee685ff8f9c2",
-          "md5": "7c14bc3715fd56532f82e07ac3bc3093"
+          "size": 8795501,
+          "sha512": "48d3eae094dd21bad619fc62f8f1b502e8dbb75e48bc986698307b974fc951dab5695c115157cd9097f75c9e418fe48a1ad05e2a80e7c3cff9236bb63932bd7c",
+          "sha256": "747ab9c695f91460c64ffe40ddb13d5dd0cf1678ec16fa2468699ad454835b21",
+          "sha1": "9d139f29eaf1185da95c6f77df9c6b1368553e12",
+          "md5": "e69b7b3e2d422bc07c9cea37ea36f73d"
         }
       ]
     },
@@ -144,36 +116,8 @@
           }
         },
         {
-          "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
-          "module": "flutter_plugin_android_lifecycle_profile",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
           "group": "com.example.flutter_sdk_core_plugin",
           "module": "flutter_sdk_core_plugin_profile",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "com.google_mlkit_commons",
-          "module": "google_mlkit_commons_profile",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "com.google_mlkit_face_detection",
-          "module": "google_mlkit_face_detection_profile",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "io.flutter.plugins.imagepicker",
-          "module": "image_picker_android_profile",
           "version": {
             "requires": "1.0"
           }
@@ -190,11 +134,11 @@
         {
           "name": "flutter_profile-1.0.aar",
           "url": "flutter_profile-1.0.aar",
-          "size": 8798170,
-          "sha512": "22ba6c25d154290fc9e8b7a30612e119275ee42bf77d3b605e579d5493abfed005177ded0875742ea364fd685db6c71870486d0d79319d6ac7f189f4f78811b7",
-          "sha256": "7caf1746a060b3c50e5b756f3a96bc6ca18c5e3a16ca074febb0dca5dec9af91",
-          "sha1": "513dce36a017c8c517ae81e04ab3ee685ff8f9c2",
-          "md5": "7c14bc3715fd56532f82e07ac3bc3093"
+          "size": 8795501,
+          "sha512": "48d3eae094dd21bad619fc62f8f1b502e8dbb75e48bc986698307b974fc951dab5695c115157cd9097f75c9e418fe48a1ad05e2a80e7c3cff9236bb63932bd7c",
+          "sha256": "747ab9c695f91460c64ffe40ddb13d5dd0cf1678ec16fa2468699ad454835b21",
+          "sha1": "9d139f29eaf1185da95c6f77df9c6b1368553e12",
+          "md5": "e69b7b3e2d422bc07c9cea37ea36f73d"
         }
       ]
     },
@@ -210,11 +154,11 @@
         {
           "name": "flutter_profile-1.0-sources.jar",
           "url": "flutter_profile-1.0-sources.jar",
-          "size": 1272,
-          "sha512": "e33a46e2057170d5b537dac1c9a453f8a8249ef998a6395f85cb0cc12f7df580323d1f0e58f4aab4bf35f66719aac5f870d918224f6c98f6261012e77794900a",
-          "sha256": "cd8482071cce48a0f110cb08752f07f713415835a1f250d2d3d10d4ef24a50e9",
-          "sha1": "8f110c6493ff355d2f8a2c53d326d44ecd150862",
-          "md5": "fd1907ee0bd2c8c77f9b10b86117378d"
+          "size": 1145,
+          "sha512": "ddfa5d5e1f32769cbf6d68af6acd5fadc768de8ea3b7f402acfca2147a86c25240b4371ea15880284348c63560cf1197465b3986ea1dfe565b47edaf0e32e0de",
+          "sha256": "7219a5d15b3b5a66e74c92b8464cb9f8dcdd4afd9676e2d85743ac4ced25a8c3",
+          "sha1": "a1349ae3b772632ffa8e56822a21ac666472bb94",
+          "md5": "92fb96e303f618bc4b033841b6ed634b"
         }
       ]
     },
